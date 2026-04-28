@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Rahim Uddin",
+    "age": 25,
+    "email": "rahim@example.com",
+    "city": "Dhaka",
+    "occupation": "Software Engineer",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Karim Hossain",
+    "age": 30,
+    "email": "karim@example.com",
+    "city": "Chittagong",
+    "occupation": "Doctor",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Fatema Begum",
+    "age": 27,
+    "email": "fatema@example.com",
+    "city": "Sylhet",
+    "occupation": "Teacher",
+    "active": false
+  },
+  {
+    "id": 4,
+    "name": "Nasrin Akter",
+    "age": 22,
+    "email": "nasrin@example.com",
+    "city": "Rajshahi",
+    "occupation": "Student",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Jahangir Alam",
+    "age": 35,
+    "email": "jahangir@example.com",
+    "city": "Khulna",
+    "occupation": "Businessman",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Sumaiya Islam",
+    "age": 28,
+    "email": "sumaiya@example.com",
+    "city": "Barisal",
+    "occupation": "Nurse",
+    "active": false
+  },
+  {
+    "id": 7,
+    "name": "Tariq Hasan",
+    "age": 32,
+    "email": "tariq@example.com",
+    "city": "Mymensingh",
+    "occupation": "Lawyer",
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "Roksana Khanam",
+    "age": 24,
+    "email": "roksana@example.com",
+    "city": "Comilla",
+    "occupation": "Designer",
+    "active": true
+  },
+  {
+    "id": 9,
+    "name": "Belal Ahmed",
+    "age": 40,
+    "email": "belal@example.com",
+    "city": "Narayanganj",
+    "occupation": "Accountant",
+    "active": false
+  },
+  {
+    "id": 10,
+    "name": "Mitu Rani",
+    "age": 29,
+    "email": "mitu@example.com",
+    "city": "Gazipur",
+    "occupation": "Pharmacist",
+    "active": true
+  }
+]
